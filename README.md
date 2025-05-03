@@ -21,6 +21,5 @@ alias gt='git status'
 alias gtc='git add . && git commit -m'
 alias gtp='git push'
 alias nb='npm run build'
-alias nd='npm run build:dev'
 alias nt='npm run test'
 ```
